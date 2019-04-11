@@ -1,6 +1,6 @@
-[My Docker Hub](https://hub.docker.com/u/somkiat)
+[My Docker Hub](https://hub.docker.com/u/suppasek)
 
-
+[![Build Status](https://travis-ci.com/Suppasek/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/Suppasek/workshop-depoy-microservice-java)
 
 [My catalog service in Google Cloud](http://<ip>:<port>/catalog/1)
 
